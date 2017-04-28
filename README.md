@@ -6,7 +6,6 @@ FindLaundryInfo is a script that retrieves Laundry data regarding washing and dr
 This script is written in part of a data analysis project that looks at washing, and drying machine usage data and analyze the habits of college students across campus. UMass Laundry Tracker has information on all laundry rooms and their respective washing and drying machines. By using this information and retrieving it in a timely fashion, we can construct a data model that predicts habits of different dormitories across the UMass campus. 
 With enough information, we can predict:
 * Broken Laundry Machines
-* Population
 * Events correlated with Laundry
 
 ### Sample Output
